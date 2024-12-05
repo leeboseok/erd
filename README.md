@@ -1,7 +1,7 @@
 # ## 토이 프로젝트 1 : 쇼핑몰 만들기 프로젝트 1단계
 ### [프로젝트 개요] 
 - **프로젝트 명** : 쇼핑몰 구축을 위한 DB모델링
-- **상세 내용 :** [프로젝트 RFP 노션 링크](https://quickest-asterisk-75d.notion.site/Toy-Project-1-c3f8d546d18646b08934b97ba4d295ea)
+- **상세 내용 :** [프로젝트 RFP 노션 링크](https://www.notion.so/Toy-Project-1-1038bc348a464d06847e09b04fbaae2b?pvs=4)
 - **수행 및 결과물 제출 기한** : 12/9 (월) ~ 12/15 (일) 23:59
 
 
